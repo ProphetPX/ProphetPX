@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... PF1eCharBuild - a character builder for Pathfinder 1st edition RPG characters, using C++ and Perl 5
+- 🔭 I’m currently working on ...
+- 
+- 1. OpenCOMAL, porting from an old 2002 code base, COMAL is a hybrid programming language from the 1980s which combines the best of BASIC and Pascal,
+- And my own personal project:
+- 2. PF1eCharBuild - a character builder for Pathfinder 1st edition RPG characters, using C++ and Perl 5
+     
 - 🌱 I’m currently learning ... Perl 5, C++
 - 🤔 I’m looking for help with ... Database interaction between Perl and C++ (separately) to MySQL databases
 - 💬 Ask me about ... PF1eCharBuild !!
